@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![stepheng105](https://img.shields.io/badge/stepheng105-github-blue?logo=github)](https://github.com/stepheng105)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently a graduate student at California Polytechnic State University in San Luis Obispo. 
 
 #### Email
-sli[at]cumt.edu.cn
+sgcook[at]calpoly.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.S., Mathematics, California Polytechnic State University, San Luis Obispo, 2025 (expected).\
+B.S., Applied Mathematics **summa cum laude**, California Polytechnic State University, San Luis Obispo, 2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Functional Analysis, Stochastic Analysis, Mathematical Modeling, Financial Mathematics, Deep Learning
 
