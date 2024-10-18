@@ -2,7 +2,7 @@
 
 [![stepheng105](https://img.shields.io/badge/stepheng105-github-blue?logo=github)](https://github.com/stepheng105) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-cook-569b05209/)
 
-I am currently a graduate student at California Polytechnic State University in San Luis Obispo. Some of my hobbies include board games and playing the trumpet. Testing changes being updated
+I am currently a graduate student at California Polytechnic State University in San Luis Obispo. Some of my hobbies include board games and playing the trumpet. Testing changes
 
 #### Email
 <sgcook@calpoly.edu>
