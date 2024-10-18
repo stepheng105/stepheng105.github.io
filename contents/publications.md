@@ -1,1 +1,1 @@
-[1] Vincent Bonini, Daniel Chamberlin, <strong>Stephen Cook</strong>, Parthiv Seetharaman, and Tri Tran. "Condensed Ricci Curvature on Paley Graphs and their Generalizations". *Involve - a Journal of Mathematics* (AIOTWHUo be published). [arXiV](https://doi.org/10.48550/arXiv.2409.03631).
+[1] Vincent Bonini, Daniel Chamberlin, <strong>Stephen Cook</strong>, Parthiv Seetharaman, and Tri Tran. "Condensed Ricci Curvature on Paley Graphs and their Generalizations". *Involve - a Journal of Mathematics* (To be published). [arXiV](https://doi.org/10.48550/arXiv.2409.03631).
