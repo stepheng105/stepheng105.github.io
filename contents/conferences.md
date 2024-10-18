@@ -7,3 +7,5 @@
 - Joint Mathematics Meetings. Seattle Convention Center, Seattle, WA, January 2025. (to be attended)
 
 - Math summer research poster symposium. California Polytechnic State University, San Luis Obispo, CA, October 2024.
+
+- aIWDUHOHUWAJOD
