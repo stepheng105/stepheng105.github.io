@@ -1,6 +1,6 @@
 - Teaching Associate; Precalculus (Winter 2025).
 
-- Teaching Assistant; Precalculus (Fall 2024). AWBTGUIH
+- Teaching Assistant; Precalculus (Fall 2024). 
 
 - Grader; Multivariate Calculus (Spring 2023).
 
