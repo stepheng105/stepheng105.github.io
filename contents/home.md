@@ -15,5 +15,5 @@ B.S., Applied Mathematics (Minor in Computer Science) *summa cum laude*, Califor
 Functional Analysis, Stochastic Analysis, Mathematical Modeling, Financial Mathematics, Deep Learning
 
 #### CV
-<a href="CV.pdf" download>Click to Download</a>
+<a href="static/assets/CV.pdf" download>Click to Download</a>
 
