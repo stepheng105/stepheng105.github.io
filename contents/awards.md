@@ -5,5 +5,3 @@
 - [Charles J. Hankes Excellence in Math Award](https://math.calpoly.edu/scholarships-awards#:~:text=Charles%20J.%20Hanks%20Mathematics) - California Polytechnic State University (May 2023).
 
 - [Scholarship for the Advancement of Science and Technology]({https://math.calpoly.edu/scholarships-awards#:~:text=Advancement%20of%20Science%20and%20Technology%20Scholarship) - California Polytechnic State University (May 2022).
-
-- AWUIHDOJAB
