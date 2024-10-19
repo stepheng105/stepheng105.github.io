@@ -13,16 +13,25 @@ Here are some photos of me and some of my hobbies! TESTING
 
 <style>
   .masonry {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Responsive columns */
-    grid-auto-flow: dense; /* Automatically fill the grid gaps */
-    gap: 10px; /* Space between images */
+    column-count: 3; /* Number of columns, adjusts on screen size */
+    column-gap: 10px; /* Space between columns */
   }
 
   .masonry img {
     width: 100%;
-    height: auto; /* Ensure the height adjusts naturally */
-    object-fit: cover; /* Ensure image covers the area without distortion */
+    margin-bottom: 10px; /* Space between rows */
+    display: block; /* Ensure no inline gap */
   }
 </style>
+
+<script>
+  // JavaScript to adjust the height dynamically based on column layout
+  window.addEventListener('load', function() {
+    const masonry = document.querySelector('.masonry');
+    const images = masonry.querySelectorAll('img');
+    images.forEach(img => {
+      img.style.height = img.offsetWidth * (img.naturalHeight / img.naturalWidth) + 'px';
+    });
+  });
+</script>
 
