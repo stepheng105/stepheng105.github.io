@@ -20,5 +20,6 @@ Here are some photos of me and some of my hobbies!
   .gallery img {
     width: 100%;
     height: auto;
+    object-fit: cover;
   }
 </style>
