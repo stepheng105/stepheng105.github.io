@@ -13,19 +13,43 @@ Here are some photos of me and some of my hobbies! TESTING
 
 <style>
   .masonry {
-    column-count: 3; /* Number of columns, adjusts on screen size */
     column-gap: 10px; /* Space between columns */
   }
 
   .masonry img {
     width: 100%;
     margin-bottom: 10px; /* Space between rows */
-    display: block; /* Ensure no inline gap */
+    display: block; /* Ensures no inline gap */
+  }
+
+  /* Adjust the number of columns based on screen size */
+  @media (min-width: 1200px) {
+    .masonry {
+      column-count: 4; /* 4 columns for large screens */
+    }
+  }
+
+  @media (min-width: 768px) and (max-width: 1199px) {
+    .masonry {
+      column-count: 3; /* 3 columns for medium screens */
+    }
+  }
+
+  @media (max-width: 767px) {
+    .masonry {
+      column-count: 2; /* 2 columns for smaller screens */
+    }
+  }
+
+  @media (max-width: 480px) {
+    .masonry {
+      column-count: 1; /* 1 column for very small screens */
+    }
   }
 </style>
 
 <script>
-  // JavaScript to adjust the height dynamically based on column layout
+  // JavaScript to adjust image height based on their aspect ratio
   window.addEventListener('load', function() {
     const masonry = document.querySelector('.masonry');
     const images = masonry.querySelectorAll('img');
