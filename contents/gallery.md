@@ -2,7 +2,7 @@
 
 Here are some photos of me and some of my hobbies!
 
-<div class="gallery">
+<div class="masonry">
     <img src="static/assets/img/trumpet_solo_1.jpg" alt="Trumpet Solo 1" title="I was a section leader for the Cal Poly Mustang Band. This is me playing a solo for our performance at the Lunar New Year parade in San Francisco."/>
     <img src="static/assets/img/gloomhaven.jpg" alt="Gloomhaven" title="One of the larger board games I like to play with my friends called Gloomhaven."/>
     <img src="static/assets/img/brass_quintet.JPG" alt="Brass Quintet" title="Me alongside the Cal Poly brass quintet performing Anthony DiLorenzo's *Fire Dance*."/>
@@ -12,14 +12,17 @@ Here are some photos of me and some of my hobbies!
 </div>
 
 <style>
-  .gallery {
+  .masonry {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 10px;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Creates flexible columns */
+    grid-auto-rows: 10px; /* Base row height */
+    gap: 10px; /* Space between images */
   }
-  .gallery img {
+
+  .masonry img {
     width: 100%;
     height: auto;
-    object-fit: cover;
+    grid-row: span 30; /* Spanning images over rows */
   }
 </style>
+
