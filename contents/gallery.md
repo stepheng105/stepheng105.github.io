@@ -14,16 +14,15 @@ Here are some photos of me and some of my hobbies! TESTING
 <style>
   .masonry {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Flexible columns based on screen size */
-    grid-auto-rows: 10px; /* Base row height to enable spanning */
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Responsive columns */
+    grid-auto-flow: dense; /* Automatically fill the grid gaps */
     gap: 10px; /* Space between images */
   }
 
   .masonry img {
     width: 100%;
-    height: auto;
-    grid-row: span 30; /* Span images over multiple rows */
-    object-fit: cover; /* Ensures images cover their grid area without distortion */
+    height: auto; /* Ensure the height adjusts naturally */
+    object-fit: cover; /* Ensure image covers the area without distortion */
   }
 </style>
 
