@@ -23,19 +23,13 @@ Here are some photos of me and some of my hobbies!
   }
 
   /* Adjust the number of columns based on screen size */
-  @media (min-width: 1200px) {
-    .masonry {
-      column-count: 4; /* 4 columns for large screens */
-    }
-  }
-
-  @media (min-width: 768px) and (max-width: 1199px) {
+  @media (min-width: 900px) {
     .masonry {
       column-count: 3; /* 3 columns for medium screens */
     }
   }
 
-  @media (max-width: 767px) {
+  @media (max-width: 900px) {
     .masonry {
       column-count: 2; /* 2 columns for smaller screens */
     }
