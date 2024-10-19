@@ -1,6 +1,6 @@
 
 
-Here are some photos of me and some of my hobbies! TESTING
+Here are some photos of me and some of my hobbies! 
 
 <div class="masonry">
     <img src="static/assets/img/trumpet_solo_1.jpg" alt="Trumpet Solo 1" title="I was a section leader for the Cal Poly Mustang Band. This is me playing a solo for our performance at the Lunar New Year parade in San Francisco."/>
