@@ -14,7 +14,7 @@ Here are some photos of me and some of my hobbies!
 <style>
   .gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 10px;
   }
   .gallery img {
