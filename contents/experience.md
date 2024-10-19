@@ -12,7 +12,7 @@
 ##### Frost Research Associate - *California Polytechnic State University*
 (March 2023 - June 2024)
 - Advisor: Dr. Vincent Bonini
-- Description: Given a prime $p$, $n\in\mathbb{N}$, and $k\geq 1$, the generalized Paley graph of order $p^n$ under $k$-residues is $\mathcal{P}(p^n, k) = (V,E)$ where $V=\mathbb{F}\_{p^n}$ is the field of order $p^n$ and $E=`\{(x,y) \colon \exists \text{ } \alpha \in \mathbb{F}\_{p^n}^\times \text{ such that } x-y=\alpha^k`\}$. These graphs have many interesting properties, but the main one we wanted to study is their patterns in condensed Ricci curvature (a modification of Ollivier Ricci curvature on graphs). Based on an algorithm developed by a previous research group, we were able to find an explicit formula for the condensed Ricci curvature about any edge in $\mathcal{P}(p^n, k)$ so long as $k|\frac{p^n-1}{p-1}$.
+- Description: Given a prime $p$, $n\in\mathbb{N}$, and $k\geq 1$, the generalized Paley graph of order $p^n$ under $k$-residues is $\mathcal{P}(p^n, k) = (V,E)$ where $V=\mathbb{F}\_{p^n}$ is the field of order $p^n$ and $E=\lbrace(x,y) \colon \exists \text{ } \alpha \in \mathbb{F}\_{p^n}^\times \text{ such that } x-y=\alpha^k\rbrace$. These graphs have many interesting properties, but the main one we wanted to study is their patterns in condensed Ricci curvature (a modification of Ollivier Ricci curvature on graphs). Based on an algorithm developed by a previous research group, we were able to find an explicit formula for the condensed Ricci curvature about any edge in $\mathcal{P}(p^n, k)$ so long as $k|\frac{p^n-1}{p-1}$.
 - Related fields: Algebraic graph theory, number theory, finite field theory.
 
 #### Other Experience
