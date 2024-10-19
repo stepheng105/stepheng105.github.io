@@ -1,6 +1,6 @@
 
 
-Here are some photos of me and some of my hobbies!
+Here are some photos of me and some of my hobbies! TESTING
 
 <div class="masonry">
     <img src="static/assets/img/trumpet_solo_1.jpg" alt="Trumpet Solo 1" title="I was a section leader for the Cal Poly Mustang Band. This is me playing a solo for our performance at the Lunar New Year parade in San Francisco."/>
@@ -14,15 +14,16 @@ Here are some photos of me and some of my hobbies!
 <style>
   .masonry {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Creates flexible columns */
-    grid-auto-rows: 10px; /* Base row height */
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Flexible columns based on screen size */
+    grid-auto-rows: 10px; /* Base row height to enable spanning */
     gap: 10px; /* Space between images */
   }
 
   .masonry img {
     width: 100%;
     height: auto;
-    grid-row: span 30; /* Spanning images over rows */
+    grid-row: span 30; /* Span images over multiple rows */
+    object-fit: cover; /* Ensures images cover their grid area without distortion */
   }
 </style>
 
