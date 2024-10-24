@@ -53,6 +53,17 @@ Here are some photos of me and some of my hobbies! Hover over an image to see a 
         alt="Me presenting a poster at the Cal Poly poster symposium." 
         title="This is me presenting my research group's poster on Paley graphs at the Cal Poly poster symposium."
     />
+    <img 
+        src="static/assets/img/bowling_scores.JPG" 
+        alt="Me and my friends' bowling scores" 
+        title="These are some bowling scores for me and my friends from a recent bowling class. We have been going for a while now, and we've been slowly improving!"
+    />
+    <img 
+        src="static/assets/img/jellies.JPG" 
+        alt="Some cool jellies from the Monterey Bay aquarium" 
+        title="These are some cool jellies I saw at the Monterey Bay aquarium (If you couldn't tell, I love marine life and marine biology)!"
+    />
+    
 </div>
 
 <style>
