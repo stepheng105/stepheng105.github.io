@@ -78,13 +78,13 @@ Here are some photos of me and some of my hobbies! Hover over an image to see a 
   }
 
   /* Adjust the number of columns based on screen size */
-  @media (min-width: 992px) {
+  @media (min-width: 991px) {
     .masonry {
       column-count: 3; /* 3 columns for medium screens */
     }
   }
 
-  @media (max-width: 992px) {
+  @media (max-width: 991px) {
     .masonry {
       column-count: 2; /* 2 columns for smaller screens */
     }
