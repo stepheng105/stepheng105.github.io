@@ -15,7 +15,7 @@ B.S. Applied Mathematics, California Polytechnic State University, San Luis Obis
 * Minor in Computer Science 
 
 #### Research Interests
-Functional Analysis, Stochastic Analysis, Mathematical Modeling, Financial Mathematics, Deep Learning
+Functional Analysis, Operator Theory, Stochastic Analysis, Mathematical Modeling, Financial Mathematics, Deep Learning
 
 #### CV
 [Click here to view my Curriculum Vitae](https://stepheng105.github.io/static/assets/files/CV.pdf)
