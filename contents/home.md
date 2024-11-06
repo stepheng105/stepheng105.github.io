@@ -8,12 +8,15 @@ I am currently a graduate student at California Polytechnic State University in 
 <sgcook@calpoly.edu>
 
 #### Education
-M.S., Mathematics, California Polytechnic State University, San Luis Obispo, 2025 (expected).\
-B.S., Applied Mathematics (Minor in Computer Science) *summa cum laude*, California Polytechnic State University, San Luis Obispo, 2024.
+M.S. Mathematics, California Polytechnic State University, San Luis Obispo, 2025 (expected).
+* Advised by Dr. Ryan Tully-Doyle
+
+B.S. Applied Mathematics, California Polytechnic State University, San Luis Obispo, 2024. 3.97 GPA *summa cum laude.*
+* Minor in Computer Science 
 
 #### Research Interests
 Functional Analysis, Stochastic Analysis, Mathematical Modeling, Financial Mathematics, Deep Learning
 
 #### CV
-[Click to download](https://stepheng105.github.io/static/assets/files/CV.pdf)
+[Click here to view my Curriculum Vitae](https://stepheng105.github.io/static/assets/files/CV.pdf)
 
