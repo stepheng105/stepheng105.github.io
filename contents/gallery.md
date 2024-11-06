@@ -63,6 +63,11 @@ Here are some photos of me and some of my hobbies! Hover over an image to see a 
         alt="Some cool jellies from the Monterey Bay aquarium" 
         title="These are some cool jellies I saw at the Monterey Bay aquarium (If you couldn't tell, I love marine life and marine biology)!"
     />
+    <img 
+        src="static/assets/img/wind_ensemble_outreach.jpg" 
+        alt="Me playing in the Cal Poly Wind Ensemble" 
+        title="This is me performing with the Cal Poly Wind Ensemble during one of our outreach tours through SLO and Santa Barbara Counties."
+    />
     
 </div>
 
