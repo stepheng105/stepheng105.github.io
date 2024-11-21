@@ -18,5 +18,5 @@ B.S. Applied Mathematics, California Polytechnic State University, San Luis Obis
 Functional Analysis, Operator Theory, Stochastic Analysis, Mathematical Modeling, Financial Mathematics, Deep Learning
 
 #### CV
-[Click here to view my Curriculum Vitae](https://stepheng105.github.io/static/assets/files/CV.pdf)
+[Click here to view my curriculum vitae](https://stepheng105.github.io/static/assets/files/CV.pdf)
 

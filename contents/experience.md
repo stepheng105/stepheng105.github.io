@@ -19,8 +19,8 @@
 
 #### Other Experience
 
-##### Junior Software Developer - *Amazon*
+##### Junior Software Developer Engineer - *Amazon*
 (January 2022 - January 2023)
 - Manager: Kim Nico
-- Description: The Junior Software Developer program is a selective program hosted by amazon to train young motivated software engineers. 
+- Description: The Junior SDE program is a selective program hosted by Amazon to train young motivated software engineers. It is a year-round internship; part-time during the school year, and full-time over the summer. I received 1:1 mentoring throughout the program and learned a lot about computer science. Some of the projects I worked on included front-end web development for internal tools and the migration of an internal service to an AWS Lambda service.
 - Related skills: Python, java, javascript, html, AWS
