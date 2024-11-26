@@ -4,4 +4,4 @@
 
 - Grader; Multivariate Calculus (Spring 2023).
 
-- Tutor; Precalculus, Calculus, Computer Science (Fall 2022)
+- Tutor; Precalculus, Calculus, Computer Science (Fall 2022).
