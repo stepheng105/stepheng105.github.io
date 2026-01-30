@@ -1,3 +1,7 @@
+- Teaching Assistant; Precalculus (Winter 2025)
+
+- Teaching Assistant; Precalculus (Fall 2025)
+
 - Teaching Associate; Precalculus (Winter 2025).
 
 - Teaching Assistant; Precalculus (Fall 2024). 
