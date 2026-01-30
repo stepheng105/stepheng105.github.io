@@ -1,4 +1,4 @@
-- [Outstanding Graduate Student (Mathematics Department)](https://youtu.be/R7I6ba7kOlc?t=5254) - California Polytechnic State University (Mat 2025)
+- [Outstanding Graduate Student (Mathematics Department)](https://youtu.be/R7I6ba7kOlc?t=5254) - California Polytechnic State University (May 2025).
 
 - [Lawrence and Ruth Renihan Scholarship](https://plannedgiving.calpoly.edu/scholarships/universitywide#:~:text=and%20senior%20students.-,Lawrence%20B.%20and%20Ruth%20B.%20Renihan%20Scholarship%20Endowment,-The%20Lawrence%20B) - California Polytechnic State University (May 2024).
 
