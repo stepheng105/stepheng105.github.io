@@ -12,7 +12,9 @@ PhD Mathematics, University of California, Santa Cruz, CA, 2030 (expected).
 
 M.S. Mathematics, California Polytechnic State University, San Luis Obispo, CA, 2025. 
 * Advised by Dr. Ryan Tully-Doyle
-* Thesis: ["Topiarism: The Kernel Embedding of Distributions Applied to Modern Portfolio Theory"](https://digitalcommons.calpoly.edu/theses/3055). [Slides](https://stepheng105.github.io/static/assets/files/Thesis_Slides.pdf)
+* Thesis: ["Topiarism: The Kernel Embedding of Distributions Applied to Modern Portfolio Theory"](https://digitalcommons.calpoly.edu/theses/3055). 
+  * [Slides](https://stepheng105.github.io/static/assets/files/Thesis_Slides.pdf)
+  * [Code Repository](https://github.com/stepheng105/topiary)
 
 B.S. Applied Mathematics, California Polytechnic State University, San Luis Obispo, CA, 2024. 3.97 GPA *summa cum laude.*
 * Minor in Computer Science 

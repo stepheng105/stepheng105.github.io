@@ -6,12 +6,12 @@
 }
 
 .header {
-    border-bottom: solid 2px var(--cp-green);
+    border-bottom: solid 2px var(--ucsc-blue);
     z-index: 10000;
 }
 
 .bg-bottom {
-    background-color: var(--cp-green); /* background-color: var(--h-title-color);*/
+    background-color: var(--ucsc-blue); /* background-color: var(--h-title-color);*/
 }
 
 .top-section {
@@ -43,7 +43,7 @@
 
 section header h2{
     font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
-    color: var(--cp-green);
+    color: var(--ucsc-blue);
     font-size: 2.3rem;
     line-height: 4rem;
 }
